@@ -1,0 +1,5 @@
+TV, Radyo ve Gazete ilanlarına göre satış rakamları var.
+Buradan Sales Sütunu hedef yani y=df['Sales']. TV, radyo ve gazeteye ayrı ayrı ne kadar yatırım 
+yaparsam satış rakamlarım ne kadar artar sorusuna cevap arayacaksınız ve Hangi reklam yönteminin daha başarılı 
+olduğunu bulacaksınız. Test olarak ayırdığınız veri ile tahmin ettiğiniz veriyi aynı grafikte line chart
+ile görselleştireceksiniz.
