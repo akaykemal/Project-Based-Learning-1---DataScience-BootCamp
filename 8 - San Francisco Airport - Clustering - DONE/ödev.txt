@@ -1,0 +1,6 @@
+iki clustering yol sayisi ve yolcu sayisi
+mesela united hva yollari var merkezi san fansico 1. unitede baglanmasi gerekir
+2. grubta japnya ya yakin uzak doga acilan kapi olabilir, asya dan gelen ucaklar daha fazla glemsi
+Clzustering , fit , predict, elbow method
+
+San Francisco Airport - Clustering
